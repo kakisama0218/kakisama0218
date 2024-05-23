@@ -15,7 +15,7 @@
 
 </div>
 
-![头像](image/头像.jpg)
+![头像](image/背景.jpg)
 
 ![Visitor Count](https://profile-counter.glitch.me/kakisama0218/count.svg)
 
